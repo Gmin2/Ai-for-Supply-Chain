@@ -79,6 +79,3 @@ See [License.txt](License.txt) for license information.
 [toolchain_github_url]: https://github.com/IBM-Cloud/logistics-wizard-toolchain
 
 
-## Credits
-
-Credit for the code goes to IBM. I've merely created a wrapper to get people started.
