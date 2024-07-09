@@ -1,7 +1,6 @@
 
 ## Overview
 
-This is the code for [this](https://youtu.be/vwor9Fva1V4) video on Youtube by Siraj Raval about Supply Chains. 
 
 Logistics Wizard is a reimagined supply chain optimization system for the 21st century.
 
@@ -11,8 +10,6 @@ Logistics Wizard aims to simulate an environment running an ERP system and augme
 
 One scenario, illustrating how a supply chain can be made more agile, involves dealing with a bad weather condition. Considering a global retail company with distribution centers, retail stores and ongoing shipments, how can this company adapt its supply chain to react to changing weather conditions that could impact its shipments or become opportunities to increase revenues.
 
-
-[![Logistics Wizard on Bluemix](docs/youtube_play.png)](http://www.youtube.com/watch?v=wCxXs83-eRc "Logistics Wizard on Bluemix")
 
 ## Try the Logistics Wizard sample
 
